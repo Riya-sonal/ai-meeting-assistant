@@ -1,0 +1,7 @@
+streamlit
+ollama
+sounddevice
+wavio
+torch
+torchaudio
+git+https://github.com/openai/whisper.git
