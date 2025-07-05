@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # ai-meeting-assistant
-=======
+
 # 🧠 AI Meeting Assistant 🎧
 
 A lightweight voice-based assistant that listens to your voice (like in Zoom or Google Meet), transcribes it, and responds intelligently — all **offline using Ollama and local LLMs** like TinyLLaMA or Phi-3.
