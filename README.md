@@ -127,13 +127,7 @@ client.chat(model='tinyllama', ...)
 
 ---
 
-## 📌 To-Do / Improvements
-
-*
-
----
-
-## 🧑‍💼 Author
+## Author
 
 **Riya Sonal Nazareth**
 🔗 [LinkedIn](https://www.linkedin.com/in/riya-sonal-nazareth-20b26a227/)
