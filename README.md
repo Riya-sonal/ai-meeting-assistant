@@ -102,14 +102,6 @@ Click **“Start Listening”** and speak for 5 seconds. You'll get a transcript
 
 ---
 
-## 📸 Screenshots
-
-| Record Audio | Get Answers |
-| ------------ | ----------- |
-|              |             |
-
----
-
 ## 🧐 Model Options
 
 Supported local models (via Ollama):
